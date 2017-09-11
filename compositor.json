@@ -44,7 +44,7 @@
     },
     {
       "component": "header",
-      "heading": "site",
+      "heading": "Test site",
       "subhead": "Test site",
       "children": [
         {
